@@ -4,10 +4,11 @@ I'm student from Rajamangala University of Technology Lanna major of Computer En
 
 ## Coding languege
 
-- C Ardunio (This is main languege)
-- Python (I will learn in future)
-- HTML (A little)
-- PHP (Long 2 year ago...)
+- C Ardunio (A little )
+- Python (A little )
+- HTML (A little This is main languege)
+- css (A little)
+- javascript (A little)
 
 ## Language
 
