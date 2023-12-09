@@ -20,4 +20,4 @@ I'm student from Rajamangala University of Technology Lanna major of Computer En
 ![korakot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Korakot2001&show_icons=true&theme=tokyonight)
 ![korakot's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Korakot2001&langs_count=5&theme=tokyonight)
 
-![อะไร๊?](https://giphy.com/gifs/life-bugs-programmer-2KAGlmkPywhZS)
+![อะไร๊?]([https://giphy.com/gifs/life-bugs-programmer-2KAGlmkPywhZS](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fkivay583e8dy.gif)https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fkivay583e8dy.gif)
